@@ -23,7 +23,7 @@ shortcut.IconLocation = script_path
 shortcut.save()
 
 
-SERVER_URL = "http://192.168.1.73:5051/screen"  # 👉 à adapter selon l'adresse du serveur
+SERVER_URL = "http://YOUR IPV4 ADRESSE !!!!!:5051/screen"  # 👉 à adapter selon l'adresse du serveur
 
 hostname = socket.gethostname()
 ip = socket.gethostbyname(hostname)
