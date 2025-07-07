@@ -47,5 +47,5 @@ while True:
     except Exception as e:
         print("Erreur lors de la capture ou de l'envoi :", e)
 
-    time.sleep(0.3)  # ⚠️ intervalle de 2 secondes
+    time.sleep(0.3)  # ⚠️ intervalle de 0.3 secondes
 
